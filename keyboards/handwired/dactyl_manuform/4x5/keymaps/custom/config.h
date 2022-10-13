@@ -29,6 +29,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define MASTER_RIGHT
 
 #define SPLIT_USB_DETECT
-#define SPLIT_USB_TIMEOUT 2000
+#define SPLIT_USB_TIMEOUT 5000
 
 #define EE_HANDS
